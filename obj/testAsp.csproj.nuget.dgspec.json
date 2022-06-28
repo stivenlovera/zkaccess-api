@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Apis backend\\testAsp\\testAsp.csproj": {}
+    "/var/www/zkaccess-api/testAsp.csproj": {}
   },
   "projects": {
-    "D:\\Apis backend\\testAsp\\testAsp.csproj": {
+    "/var/www/zkaccess-api/testAsp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Apis backend\\testAsp\\testAsp.csproj",
+        "projectUniqueName": "/var/www/zkaccess-api/testAsp.csproj",
         "projectName": "testAsp",
-        "projectPath": "D:\\Apis backend\\testAsp\\testAsp.csproj",
-        "packagesPath": "C:\\Users\\stiven\\.nuget\\packages\\",
-        "outputPath": "D:\\Apis backend\\testAsp\\obj\\",
+        "projectPath": "/var/www/zkaccess-api/testAsp.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/var/www/zkaccess-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stiven\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,12 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x86": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

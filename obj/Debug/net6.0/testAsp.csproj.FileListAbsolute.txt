@@ -1,27 +1,54 @@
-D:\Apis backend\testAsp\bin\Debug\net6.0\appsettings.Development.json
-D:\Apis backend\testAsp\bin\Debug\net6.0\appsettings.json
-D:\Apis backend\testAsp\bin\Debug\net6.0\testAsp.exe
-D:\Apis backend\testAsp\bin\Debug\net6.0\testAsp.deps.json
-D:\Apis backend\testAsp\bin\Debug\net6.0\testAsp.runtimeconfig.json
-D:\Apis backend\testAsp\bin\Debug\net6.0\testAsp.dll
-D:\Apis backend\testAsp\bin\Debug\net6.0\testAsp.pdb
-D:\Apis backend\testAsp\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\Apis backend\testAsp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Apis backend\testAsp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Apis backend\testAsp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.csproj.AssemblyReference.cache
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.GeneratedMSBuildEditorConfig.editorconfig
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.AssemblyInfoInputs.cache
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.AssemblyInfo.cs
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.csproj.CoreCompileInputs.cache
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.MvcApplicationPartsAssemblyInfo.cs
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.MvcApplicationPartsAssemblyInfo.cache
-D:\Apis backend\testAsp\obj\Debug\net6.0\staticwebassets.build.json
-D:\Apis backend\testAsp\obj\Debug\net6.0\staticwebassets.development.json
-D:\Apis backend\testAsp\obj\Debug\net6.0\scopedcss\bundle\testAsp.styles.css
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.csproj.CopyComplete
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.dll
-D:\Apis backend\testAsp\obj\Debug\net6.0\refint\testAsp.dll
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.pdb
-D:\Apis backend\testAsp\obj\Debug\net6.0\testAsp.genruntimeconfig.cache
-D:\Apis backend\testAsp\obj\Debug\net6.0\ref\testAsp.dll
+D:/Apis backend/testAsp/bin/Debug/net6.0/appsettings.Development.json
+D:/Apis backend/testAsp/bin/Debug/net6.0/appsettings.json
+D:/Apis backend/testAsp/bin/Debug/net6.0/testAsp.exe
+D:/Apis backend/testAsp/bin/Debug/net6.0/testAsp.deps.json
+D:/Apis backend/testAsp/bin/Debug/net6.0/testAsp.runtimeconfig.json
+D:/Apis backend/testAsp/bin/Debug/net6.0/testAsp.dll
+D:/Apis backend/testAsp/bin/Debug/net6.0/testAsp.pdb
+D:/Apis backend/testAsp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Apis backend/testAsp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Apis backend/testAsp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Apis backend/testAsp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.csproj.AssemblyReference.cache
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.GeneratedMSBuildEditorConfig.editorconfig
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.AssemblyInfoInputs.cache
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.AssemblyInfo.cs
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.csproj.CoreCompileInputs.cache
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.MvcApplicationPartsAssemblyInfo.cs
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.MvcApplicationPartsAssemblyInfo.cache
+D:/Apis backend/testAsp/obj/Debug/net6.0/staticwebassets.build.json
+D:/Apis backend/testAsp/obj/Debug/net6.0/staticwebassets.development.json
+D:/Apis backend/testAsp/obj/Debug/net6.0/scopedcss/bundle/testAsp.styles.css
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.csproj.CopyComplete
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.dll
+D:/Apis backend/testAsp/obj/Debug/net6.0/refint/testAsp.dll
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.pdb
+D:/Apis backend/testAsp/obj/Debug/net6.0/testAsp.genruntimeconfig.cache
+D:/Apis backend/testAsp/obj/Debug/net6.0/ref/testAsp.dll
+/var/www/zkaccess-api/bin/Debug/net6.0/appsettings.Development.json
+/var/www/zkaccess-api/bin/Debug/net6.0/appsettings.json
+/var/www/zkaccess-api/bin/Debug/net6.0/testAsp
+/var/www/zkaccess-api/bin/Debug/net6.0/testAsp.deps.json
+/var/www/zkaccess-api/bin/Debug/net6.0/testAsp.runtimeconfig.json
+/var/www/zkaccess-api/bin/Debug/net6.0/testAsp.dll
+/var/www/zkaccess-api/bin/Debug/net6.0/testAsp.pdb
+/var/www/zkaccess-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/var/www/zkaccess-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/zkaccess-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/zkaccess-api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.csproj.AssemblyReference.cache
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.AssemblyInfoInputs.cache
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.AssemblyInfo.cs
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.csproj.CoreCompileInputs.cache
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.MvcApplicationPartsAssemblyInfo.cs
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.MvcApplicationPartsAssemblyInfo.cache
+/var/www/zkaccess-api/obj/Debug/net6.0/staticwebassets.build.json
+/var/www/zkaccess-api/obj/Debug/net6.0/staticwebassets.development.json
+/var/www/zkaccess-api/obj/Debug/net6.0/scopedcss/bundle/testAsp.styles.css
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.csproj.CopyComplete
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.dll
+/var/www/zkaccess-api/obj/Debug/net6.0/refint/testAsp.dll
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.pdb
+/var/www/zkaccess-api/obj/Debug/net6.0/testAsp.genruntimeconfig.cache
+/var/www/zkaccess-api/obj/Debug/net6.0/ref/testAsp.dll
