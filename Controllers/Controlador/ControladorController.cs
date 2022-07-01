@@ -56,7 +56,7 @@ namespace zktco_access.Controllers.Controlador
             
             var controlador = await dbContext.Controlador.FirstOrDefaultAsync(c => c.id == id);
             
-            bool conect =this.controlador.conexion_controller(controlador.protocolo, controlador.ip_address,controlador.port.ToString(),controlador.timeout.ToString(), controlador.password);
+            bool conect =this.controlador.conexion_controller(controlador.protocolo.ToString(), controlador.ip_address,controlador.port.ToString(),controlador.timeout.ToString(), controlador.password);
             if (conect)
             {
                 this.response.status = "ok";

@@ -10,5 +10,6 @@
         public int port { get; set; }
         public int timeout { get; set; }
         public string password { get; set; }
+       
     }
 }
